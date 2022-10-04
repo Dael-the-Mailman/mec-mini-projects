@@ -7,6 +7,9 @@
 .Trashes
 ehthumbs.db
 Thumbs.db
+*.gz
+*.csv
+*/data
 
 # Jupyter files #
 .ipynb_checkpoints
